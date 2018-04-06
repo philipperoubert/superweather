@@ -3,4 +3,4 @@ Super weather is a weather application for android, it has a sleek and simple de
 
 - To use it simply import the application directories into Android Studio, from there you will be able to run the app on emulator.
 
-![alt text](http://screenshot.png)
+![alt text](screenshot.png?raw=true "Screenshot")
